@@ -5,7 +5,6 @@
     "owner": "zyadssayed",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
     "userInterfaceStyle": "dark",
     "splash": {
       "backgroundColor": "#090D16"
